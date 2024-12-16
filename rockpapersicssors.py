@@ -1,4 +1,4 @@
-                                       #EXERCISES BOOST PROGRAM 
+#EXERCISES BOOST PROGRAM 
 
 #1 - #ROCK, PAPER AND SICSSORS: Create a program that simulates a “Rock, Paper, Scissors” game between the user and the computer.
 
